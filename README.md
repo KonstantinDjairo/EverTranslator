@@ -5,7 +5,7 @@
 
 
 
-<img src="materials/mipmap-xxhdpi/icon.png" width="10%" height="10%" alt="app icon" align="center" />
+<img src="materials/mipmap-xxhdpi/icon.png" width="15%" height="15%" alt="app icon" align="center" />
 
 Look up any text on screen, even in games!
 
