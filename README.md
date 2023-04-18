@@ -1,17 +1,13 @@
 
-# EverTranslator 
+# EverDict 
 [![GitHub version](https://badge.fury.io/gh/firemaples%2FEverTranslator.svg)](https://badge.fury.io/gh/firemaples%2FEverTranslator) 
 [![CI](https://github.com/firemaples/EverTranslator/actions/workflows/ci.yml/badge.svg)](https://github.com/firemaples/EverTranslator/actions/workflows/ci.yml)
 
-<a href="https://play.google.com/store/apps/details?id=tw.firemaples.onscreenocr">
-  <img src="https://play.google.com/intl/en_us/badges/images/badge_new.png" alt="Get it on google play" />
-  <img src="https://PlayBadges.pavi2410.me/badge/downloads?id=tw.firemaples.onscreenocr" />
-  <img src="https://PlayBadges.pavi2410.me/badge/ratings?id=tw.firemaples.onscreenocr" />
-</a>
+
 
 <img src="materials/mipmap-xxhdpi/icon.png" alt="app icon" align="right" />
 
-Translate any text on screen, even in games!
+Look up any text on screen, even in games!
 
 <a href="https://www.youtube.com/watch?v=Y0OjF-luuDE">Watch usage guide on Youtube</a>
 
@@ -33,13 +29,7 @@ Translate any text on screen, even in games!
 - Android 5.0 (API level 21) or above.
 - Permission of display over other apps. (not suitable for Android Go)
 
-## Get the app
 
-### Download it on Google Play
-
-<a href="https://play.google.com/store/apps/details?id=tw.firemaples.onscreenocr">
-  <img src="https://play.google.com/intl/en_us/badges/images/badge_new.png" alt="Get it on google play" />
-</a>
 
 ### Build from source
 
@@ -69,4 +59,3 @@ Translate any text on screen, even in games!
 
 If you encounter a bug, please open an issue.  
 
-For general questions, you can also open an issue or send an email firemaples@gmail.com.
